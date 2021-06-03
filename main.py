@@ -4667,7 +4667,6 @@ localhost
 *.fastif.net
 *.fat999.com
 *.ffdy.cc
-*.ftchinese.com
 *.game3896.com
 *.gamewan.net
 *.getfirebug.com
