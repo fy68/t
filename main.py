@@ -4760,3 +4760,5 @@ localhost
 *.duoduocdn.com
 *.bilivideo.com
 *.biliapi.net
+*.aliapp.org
+*.tingyun.com
